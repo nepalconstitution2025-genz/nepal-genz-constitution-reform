@@ -12,11 +12,11 @@ We are creating a dedicated group for discussions and contributions.
 
 - [Introduction](#introduction)
 - [Articles](#articles)
-  - [Article I – Political Reset](#article-i--political-reset)
-  - [Article II – Executive Leadership](#article-ii--executive-leadership)
-  - [Article III – Judicial Independence](#article-iii--judicial-independence)
-  - [Article IV – Intelligence & Security Services](#article-iv--intelligence--security-services)
-  - [Article V – Anti-Corruption](#article-v--anti-corruption)
+  - [Article I – Political Reset](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20I%20%E2%80%93%20Political%20Reset.md)
+  - [Article II – Executive Leadership](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20II%20%E2%80%93%20Executive%20Leadership.md)
+  - [Article III – Judicial Independence](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20III%20%E2%80%93%20Judicial%20Independence.md)
+  - [Article IV – Intelligence & Security Services](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20IV%20%E2%80%93%20Intelligence%20%26%20Security%20Services.md)
+  - [Article V – Anti-Corruption](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20V%20%E2%80%93%20Anti-Corruption.md)
 
 ## 🌟 Introduction
 
