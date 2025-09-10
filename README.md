@@ -2,7 +2,7 @@
 
 > Nepali version will be uploaded soon.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform-nepali)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform)
 
 ## 📋 Table of Contents
 
@@ -17,6 +17,8 @@
 ## 🌟 Introduction
 
 This is a **comprehensive reform proposal** for Nepal's constitution, designed by the **GenZ generation** to address systemic issues in governance, corruption, and political stability. It introduces **radical changes** to ensure transparency, accountability, and merit-based leadership.
+
+> **Note:** More articles will be added soon as we are actively working on them.
 
 ## 📖 Articles
 
@@ -53,5 +55,3 @@ Implements zero tolerance for corruption, asset seizure, a public accountability
 ---
 
 **Contributing:** Feel free to open issues or pull requests for discussions and improvements.
-
-**License:** [Add license if any]
