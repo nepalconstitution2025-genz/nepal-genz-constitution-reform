@@ -1,5 +1,9 @@
 # 📜 Constitutional Reform 2025 by GenZ 🇳🇵
 
+📧 **Contact:** [nepalconstitution2025@gmail.com](mailto:nepalconstitution2025@gmail.com)
+
+We are creating a dedicated group for discussions and contributions.
+
 > Nepali version will be uploaded soon.
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform)
