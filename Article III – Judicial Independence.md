@@ -1,3 +1,5 @@
+### **Article III – Judicial Independence**
+
 ### Section 1. Foundation of Judicial Independence
 
 1. The Judiciary shall function as a **co-equal and independent pillar of democracy**, free from influence by the Executive or Legislature.

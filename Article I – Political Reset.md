@@ -1,3 +1,5 @@
+### **Article I – Political Reset**
+
 ### **Section 1 – Dissolution & Reset**
 
 - All existing **political parties are dissolved** to end entrenched dynasties.

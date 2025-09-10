@@ -1,3 +1,5 @@
+### **Article II – Executive Leadership**
+
 ### Section 1. Office of the Prime Minister
 
 1. The Prime Minister shall be the Head of Government and shall be **directly elected by the people** through universal suffrage.

@@ -1,3 +1,5 @@
+### **Article V – Anti-Corruption**
+
 ### Section 1. Zero Tolerance Principle
 
 1. Corruption in any form — financial, political, or administrative — shall be treated as a **grave constitutional crime**.

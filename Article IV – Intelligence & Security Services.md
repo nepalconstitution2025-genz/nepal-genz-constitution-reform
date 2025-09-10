@@ -1,3 +1,5 @@
+### **Article IV – Intelligence & Security Services**
+
 ### Section 1. Neutrality of Security Institutions
 
 1. Intelligence and security agencies shall exist **solely to protect the State and the People**, not to serve political parties or individuals.
