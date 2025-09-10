@@ -17,12 +17,13 @@ We are creating a dedicated group for discussions and contributions.
   - [Article III – Judicial Independence](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20III%20%E2%80%93%20Judicial%20Independence.md)
   - [Article IV – Intelligence & Security Services](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20IV%20%E2%80%93%20Intelligence%20%26%20Security%20Services.md)
   - [Article V – Anti-Corruption](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20V%20%E2%80%93%20Anti-Corruption.md)
+  - [Article VI – Police Accountability & Civilian Massacre Prevention Act](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20VI%20%E2%80%93%20Police%20Accountability%20%26%20Civilian%20Massacre%20Prevention%20Act.md)
 
 ## 🌟 Introduction
 
 This is a **comprehensive reform proposal** for Nepal's constitution, designed by the **GenZ generation** to address systemic issues in governance, corruption, and political stability. It introduces **radical changes** to ensure transparency, accountability, and merit-based leadership.
 
-> **Note:** More articles will be added soon as we are actively working on them.
+> **Note:** We have added Article VI. More articles will be added soon as we are actively working on them.
 
 ## 📖 Articles
 
@@ -55,6 +56,12 @@ Mandates neutrality of security agencies, independent appointments, and oversigh
 Implements zero tolerance for corruption, asset seizure, a public accountability office, and protections for whistleblowers to maintain national integrity.
 
 [Full Article here](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20V%20%E2%80%93%20Anti-Corruption.md)
+
+### 👮 Article VI – Police Accountability & Civilian Massacre Prevention Act
+
+Establishes strict accountability for police actions, absolutely bans shooting civilians, and prevents massacres through severe penalties, transparency measures, and citizen oversight to protect peaceful protestors and maintain public safety.
+
+[Full Article here](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20VI%20%E2%80%93%20Police%20Accountability%20%26%20Civilian%20Massacre%20Prevention%20Act.md)
 
 ---
 
