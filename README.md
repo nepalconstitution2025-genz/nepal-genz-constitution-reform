@@ -19,12 +19,13 @@ We are creating a dedicated group for discussions and contributions.
   - [Article V – Anti-Corruption](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20V%20%E2%80%93%20Anti-Corruption.md)
   - [Article VI – Police Accountability & Civilian Massacre Prevention Act](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20VI%20%E2%80%93%20Police%20Accountability%20%26%20Civilian%20Massacre%20Prevention%20Act.md)
   - [Article VII – Criminal Accountability After Collapse](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20VII%20%E2%80%93%20Criminal%20Accountability%20After%20Collapse.md)
+  - [Article VIII – Foreign Interference & National Security](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20VIII%20%E2%80%93%20Foreign%20Interference%20%26%20National%20Security.md)
 
 ## 🌟 Introduction
 
 This is a **comprehensive reform proposal** for Nepal's constitution, designed by the **GenZ generation** to address systemic issues in governance, corruption, and political stability. It introduces **radical changes** to ensure transparency, accountability, and merit-based leadership.
 
-> **Note:** We have added Article VII. More articles will be added soon as we are actively working on them.
+> **Note:** We have added Article VIII. More articles will be added soon as we are actively working on them.
 
 ## 📖 Articles
 
@@ -69,6 +70,12 @@ Establishes strict accountability for police actions, absolutely bans shooting c
 Ensures that criminal accountability persists after government collapse, with no escape from justice, permanent court orders, and severe penalties for treason, jailbreaks, and destruction of national buildings.
 
 [Full Article here](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20VII%20%E2%80%93%20Criminal%20Accountability%20After%20Collapse.md)
+
+### 🚫 Article VIII – Foreign Interference & National Security
+
+Protects Nepal's sovereignty by banning foreign interference, puppet leaders, and political funding from abroad, with severe penalties for treason and establishment of a national security commission.
+
+[Full Article here](https://github.com/nepalconstitution2025-genz/nepal-genz-constitution-reform/blob/main/Article%20VIII%20%E2%80%93%20Foreign%20Interference%20%26%20National%20Security.md)
 
 ---
 

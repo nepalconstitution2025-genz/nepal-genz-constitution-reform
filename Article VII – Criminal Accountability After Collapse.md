@@ -176,8 +176,19 @@
 - Guilty face life without parole, property seizure, and family rights void.  
 
 ---
-### 26. False Blame on Gen Z = Criminal Manipulation  
-- Politicians who blame youth for crimes they ordered are guilty of national deception.  
-- Punishment = life without parole, property seizure, and permanent family disqualification.  
+### 26. False Blame on Gen Z = Criminal Manipulation
+- Politicians who blame youth for crimes they ordered are guilty of national deception.
+- Punishment = life without parole, property seizure, and permanent family disqualification.
+
+---
+
+### 27. No Political Protection
+- Many politicians or ministers pardon their close ones when they commit jailbreaks or other crimes.
+- Parliament, ministers, or presidents cannot pardon or reduce punishment for criminals.
+- Any attempt to free criminals = **traitor itself**.
+- Politicians cannot use their power to protect relatives, allies, or party members from justice.
+- Examples of such protection:
+  - Sanjay Sah: Involved in bomb blast to kill opponents, but pardoned.
+  - Rabi Lamichane: Involved in scams.
 
 ---
